@@ -96,7 +96,7 @@ select.form-control:not([size]):not([multiple]) {height:34px;}
 				</div>
 				<div class="form-group">
 					<label for="birthdate">DATA DI NASCITA</label>
-					<input type="text" name="birthdate" id="birthdate" class="input form-control" value="" size="20" required="required">
+					<input type="text" name="birthdate" id="birthdate" class="input form-control datepicker" value="" size="20" required="required">
 				</div>
 				<div class="form-group">
 					<label for="sess">SESSO</label>
